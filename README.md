@@ -24,7 +24,7 @@ The key objectives of the assignment were:
 
 ---
 
-### 🛠️ Solution
+### Solution
 
 The assignment workflow was broken down into the following stages:
 
