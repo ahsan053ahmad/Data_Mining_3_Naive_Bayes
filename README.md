@@ -4,7 +4,7 @@ This repository contains an R Markdown assignment focused on training, validatin
 
 ---
 
-### 🧩 Business Problem
+### Business Problem
 
 Probabilistic models like Naïve Bayes are widely used for classification tasks such as spam detection, sentiment analysis, and medical diagnosis. Their simplicity, efficiency, and effectiveness—especially on high-dimensional data—make them ideal for early-stage modeling and benchmarking.
 
@@ -12,7 +12,7 @@ This project involved using a preprocessed dataset with labeled outcomes to pred
 
 ---
 
-### 🎯 Project Objective
+### Project Objective
 
 The key objectives of the assignment were:
 
@@ -43,7 +43,7 @@ The assignment workflow was broken down into the following stages:
 
 ---
 
-### 💡 Business Value
+### Business Value
 
 While this assignment was academic, the methodology reflects common real-world use cases:
 
@@ -54,7 +54,7 @@ While this assignment was academic, the methodology reflects common real-world u
 
 ---
 
-### 🚧 Challenges Encountered
+### Challenges Encountered
 
 - **Assumption Sensitivity**: Naïve Bayes assumes independence between features, which can limit its real-world performance
 - **Cross-Validation**: Manual implementation required careful fold management and averaging
